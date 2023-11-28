@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dd26a3e-cbc3-476e-a159-6344026de200" name="Changes" comment="Formatting all.min.css">
+      <change afterPath="$PROJECT_DIR$/home/migrations/0006_alter_students_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/migrations/0008_alter_studentgrades_table_alter_students_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_uploader/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_uploader/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_uploader/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_uploader/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/home/upload_grades.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/upload_grades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;skarakepelis&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c6d697e8-0740-449b-8376-fe68c65d4f59" />
+        <option name="url" value="https://github.com/skarakepelis/msc_thesis_project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VWLiK7lu6wpL9cKOzys3omllgQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="useFileNestingRules" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/skara/OneDrive/Desktop/test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\skara\OneDrive\[06] Education\[02] MSc. Εφαρμοσμένη Πληροφορική - ΔΙ.ΠΑ.Ε\Διπλωματική\v1.0\static\vendor\fontawesome-free\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.home.html">
+    <configuration name="download.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/v1.0/home/templates/home/download.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/v1.0/home/templates/home/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="file_uploader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_uploader" type="Python.DjangoServer" factoryName="Django server">
+      <module name="file_uploader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="file_uploader.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.home.html" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="JavaScript Debug.download.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dd26a3e-cbc3-476e-a159-6344026de200" name="Changes" comment="" />
+      <created>1694947015577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694947015577</updated>
+      <workItem from="1694947016719" duration="2011000" />
+      <workItem from="1694980954343" duration="49000" />
+      <workItem from="1695122877783" duration="1106000" />
+      <workItem from="1695212304421" duration="593000" />
+      <workItem from="1695322013507" duration="1100000" />
+      <workItem from="1695570029213" duration="3437000" />
+      <workItem from="1695641931456" duration="117000" />
+      <workItem from="1695642185105" duration="4263000" />
+      <workItem from="1695818060147" duration="616000" />
+      <workItem from="1696064663438" duration="919000" />
+      <workItem from="1696065640076" duration="3252000" />
+      <workItem from="1696069281911" duration="52000" />
+      <workItem from="1696069903996" duration="213000" />
+      <workItem from="1696070545312" duration="882000" />
+      <workItem from="1696083003779" duration="42000" />
+      <workItem from="1696083052812" duration="449000" />
+      <workItem from="1696083765862" duration="1091000" />
+      <workItem from="1696085010526" duration="13000" />
+      <workItem from="1696092569995" duration="5606000" />
+      <workItem from="1696099033810" duration="197000" />
+      <workItem from="1696101575799" duration="5842000" />
+      <workItem from="1696271931803" duration="47000" />
+      <workItem from="1696357788846" duration="2703000" />
+      <workItem from="1696364342717" duration="131000" />
+      <workItem from="1696413944578" duration="468000" />
+      <workItem from="1696414571343" duration="3844000" />
+      <workItem from="1696447424088" duration="10000" />
+      <workItem from="1696447514709" duration="2200000" />
+      <workItem from="1696520694486" duration="3712000" />
+      <workItem from="1696525707482" duration="7626000" />
+      <workItem from="1696608476525" duration="40000" />
+      <workItem from="1696875245450" duration="1481000" />
+      <workItem from="1696881600530" duration="1202000" />
+      <workItem from="1696935800904" duration="81000" />
+      <workItem from="1697136360054" duration="3637000" />
+      <workItem from="1697141548051" duration="432000" />
+      <workItem from="1697142305239" duration="57000" />
+      <workItem from="1697142587864" duration="57000" />
+      <workItem from="1697142857123" duration="10000" />
+      <workItem from="1697277133146" duration="1175000" />
+      <workItem from="1697281627110" duration="3000" />
+      <workItem from="1697455286648" duration="60000" />
+      <workItem from="1697455409614" duration="693000" />
+      <workItem from="1697456621092" duration="4878000" />
+      <workItem from="1697470672174" duration="424000" />
+      <workItem from="1697474097416" duration="129000" />
+      <workItem from="1697474234981" duration="7925000" />
+      <workItem from="1697488440816" duration="561000" />
+      <workItem from="1697551985808" duration="522000" />
+      <workItem from="1697574624004" duration="175000" />
+      <workItem from="1697619105409" duration="436000" />
+      <workItem from="1697704363834" duration="860000" />
+      <workItem from="1697881763834" duration="7312000" />
+      <workItem from="1697986420402" duration="966000" />
+      <workItem from="1697988807212" duration="161000" />
+      <workItem from="1697988976561" duration="1006000" />
+      <workItem from="1698065826580" duration="6484000" />
+      <workItem from="1698088108718" duration="4764000" />
+      <workItem from="1698093166266" duration="1267000" />
+      <workItem from="1698094690564" duration="18000" />
+      <workItem from="1698159351651" duration="663000" />
+      <workItem from="1698165481150" duration="2604000" />
+      <workItem from="1698236169059" duration="36000" />
+      <workItem from="1698236213045" duration="5039000" />
+      <workItem from="1698260127734" duration="1742000" />
+      <workItem from="1698263328194" duration="2806000" />
+      <workItem from="1698596215245" duration="13000" />
+      <workItem from="1699024569345" duration="349000" />
+      <workItem from="1699697601188" duration="2733000" />
+      <workItem from="1699786445803" duration="6348000" />
+      <workItem from="1699808421825" duration="3392000" />
+      <workItem from="1699813236282" duration="2713000" />
+      <workItem from="1699817730325" duration="52000" />
+      <workItem from="1699819821822" duration="681000" />
+      <workItem from="1699866311721" duration="8192000" />
+    </task>
+    <task id="LOCAL-00001" summary="Formatting all.min.css">
+      <option name="closed" value="true" />
+      <created>1696083913487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696083913487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/msc_thesis_project" />
+    </ignored-roots>
+    <MESSAGE value="Formatting all.min.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formatting all.min.css" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/v1_0$views.coverage" NAME="views Coverage Results" MODIFIED="1698091855623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/home" />
+  </component>
+</project>
