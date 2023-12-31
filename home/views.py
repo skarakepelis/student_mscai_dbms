@@ -356,7 +356,7 @@ def student_preview_dataset(request):
         # Saving Student datasets in database
         try:
             res = update_or_create_student(temp_data)
-            context = {"message": 'File uploaded Successfully!', 'col': 'success',
+            context = {"message": 'File uploaded successfully!', 'col': 'success',
                        "callback_url": "/dashboard/download"}
             temp_data.clear()
 
@@ -405,7 +405,7 @@ def grade_preview_dataset(request):
         try:
             res = updated_or_create_grades(temp_data)
             temp_data.clear()
-            context = {"message": 'File uploaded Successfully!', 'col': 'success',
+            context = {"message": 'File uploaded successfully!', 'col': 'success',
                        "callback_url": "/dashboard/download"}
 
         except Exception as e:
