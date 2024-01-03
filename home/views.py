@@ -405,7 +405,7 @@ def grade_preview_dataset(request):
         try:
             res = updated_or_create_grades(temp_data)
             temp_data.clear()
-            context = {"message": 'File uploaded successfully!', 'col': 'success',
+            context = {"message": 'File(s) uploaded successfully!', 'col': 'success',
                        "callback_url": "/dashboard/download"}
 
         except Exception as e:
